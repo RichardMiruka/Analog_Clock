@@ -1,4 +1,4 @@
-# Analogue_Clock
+# Analog_Clock
 
 The Clock with JavaScript project is a web application that displays the current time as an analog clock. It utilizes HTML for the structure, CSS for styling, and JavaScript for updating the clock's hands based on the current time.
 
