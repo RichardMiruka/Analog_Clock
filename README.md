@@ -5,5 +5,5 @@ The Clock with JavaScript project is a web application that displays the current
 # Features 
 
 * Analog clock display.
-* Hour, minute, and second hands show the current time.
 * Clock numbers indicate each hour.
+* Hour, minute, and second hands show the current time.
